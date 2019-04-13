@@ -10,6 +10,8 @@
     "lodash": "^4.17.11",
     "react": "16.8.3",
     "react-native": "0.59.3",
+    "react-native-chart-kit": "^2.4.0",
+    "react-native-svg": "^9.3.7",
     "react-native-swiper": "^1.5.14"
   },
   "devDependencies": {
